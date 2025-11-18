@@ -1,0 +1,6 @@
+movie_id	title	genres	description	movie_id	title	genres	description	movie_id	title
+1	The Matrix	Action, Sci-Fi	A computer hacker learns about the true nature of reality.	1	The Matrix	Action, Sci-Fi	A computer hacker learns about the true nature of reality.	1	The Matrix
+2	Inception	Action, Adventure, Sci-Fi	A thief who steals corporate secrets through dream-sharing technology.	2	Inception	Action, Adventure, Sci-Fi	A thief who steals corporate secrets through dream-sharing technology.	2	Inception
+3	Interstellar	Adventure, Drama, Sci-Fi	A team of explorers travel through a wormhole in space.	3	Interstellar	Adventure, Drama, Sci-Fi	A team of explorers travel through a wormhole in space.	3	Interstellar
+4	The Dark Knight	Action, Crime, Drama	Batman faces the Joker, a criminal mastermind.	4	The Dark Knight	Action, Crime, Drama	Batman faces the Joker, a criminal mastermind.	4	The Dark Knight
+5	The Prestige	Drama, Mystery, Sci-Fi	Two rival magicians compete to create the ultimate stage illusion.	5	The Prestige	Drama, Mystery, Sci-Fi	Two rival magicians compete to create the ultimate stage illusion.	5	The Prestige
